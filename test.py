@@ -1,4 +1,6 @@
 def main():
 	print("Hi")
-	print("Hello") #first change
+	print("first change") 
+	print("second change")
+	print("third change, to test use of -a")
 main()
